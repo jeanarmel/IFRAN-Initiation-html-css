@@ -1,0 +1,18 @@
+p {
+    color: red;
+}
+
+.ma-classe {
+    color: green;
+}
+.titre {
+    color: #d9168e;
+}
+.ma-span {
+    color: orange;
+    font-size: 50px;
+}
+
+#mon-id {
+    color: blue;
+}
