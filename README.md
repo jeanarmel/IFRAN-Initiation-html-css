@@ -1,6 +1,3 @@
-Ressources pour le projet de fin de module
-
-
 Module HTML-CSS | Projet de fin de module
 
 🎯 Objectifs pédagogiques
